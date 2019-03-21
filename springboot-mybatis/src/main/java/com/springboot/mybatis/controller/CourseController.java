@@ -1,6 +1,7 @@
 package com.springboot.mybatis.controller;
 
 import com.springboot.mybatis.entity.Course;
+import com.springboot.mybatis.entity.CourseVO;
 import com.springboot.mybatis.service.CourseService;
 import com.springboot.mybatis.util.RandomUtil;
 import org.springframework.web.bind.annotation.*;
@@ -17,6 +18,16 @@ public class CourseController {
     @RequestMapping(value = "/courses",method = RequestMethod.GET)
     public List<Course> selectAll(){
         return courseService.selectAll();
+    }
+
+    @RequestMapping(value = "/coursesI",method = RequestMethod.GET)
+    public List<CourseVO> selectI(){
+        return courseService.selectI();
+    }
+
+    @RequestMapping(value = "/coursesF",method = RequestMethod.GET)
+    public List<CourseVO> selectF(){
+        return courseService.selectF();
     }
 
     @RequestMapping(value = "/course/{id}",method = RequestMethod.GET)
@@ -38,5 +49,10 @@ public class CourseController {
     @RequestMapping(value = "/course",method = RequestMethod.PUT)
     public void updateCourse(@RequestBody Course course){
         courseService.update(course);
+    }
+
+    @RequestMapping(value = "/coursesVO", method = RequestMethod.GET)
+    public List<CourseVO> selectCourses() {
+        return courseService.selectCurrentCourses();
     }
 }

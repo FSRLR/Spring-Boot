@@ -1,4 +1,4 @@
-package com.springboot.quickstart;
+package com.springboot.quickstart.controller;
 
 import com.springboot.quickstart.DAO.BookDAO;
 import com.springboot.quickstart.entity.Book;
