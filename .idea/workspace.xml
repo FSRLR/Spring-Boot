@@ -2,13 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01365325-18dc-49ce-af4e-f15892efb20e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_spring4all_swagger_spring_boot_starter_1_8_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/MailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/config/WebSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/controller/WebSocketController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/QuickstartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/QuickstartApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/quickstart/target/" />
     <ignored path="$PROJECT_DIR$/springboot-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-websocket/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,60 +93,147 @@
     <session id="-1363393316">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="3" />
-          <entry key="java" value="80" />
-          <entry key="properties" value="7" />
-          <entry key="xml" value="3" />
+          <entry key="class" value="4" />
+          <entry key="java" value="112" />
+          <entry key="properties" value="15" />
+          <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="80" />
-          <entry key="Properties" value="7" />
-          <entry key="XML" value="3" />
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="112" />
+          <entry key="Properties" value="15" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="3268" />
-          <entry key="properties" value="108" />
+          <entry key="java" value="3663" />
+          <entry key="properties" value="183" />
           <entry key="txt" value="27" />
-          <entry key="xml" value="267" />
+          <entry key="xml" value="289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3268" />
+          <entry key="JAVA" value="3663" />
           <entry key="PLAIN_TEXT" value="33" />
-          <entry key="Properties" value="108" />
-          <entry key="XML" value="267" />
+          <entry key="Properties" value="183" />
+          <entry key="XML" value="289" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/SpringbootMybatisApplication.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/config/WebSocketConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="247">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/SpringbootWebsocketApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-88">
+              <caret line="23" selection-start-line="23" selection-end-line="49" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/MailServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/TaskService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/MailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/controller/CourseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/SpringbootMybatisApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -97,10 +244,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\SpringBoot\spring-boot\quickstart\src\main\java</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,8 +264,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/DemoApplication.java" />
-        <option value="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/QuickstartApplication.java" />
-        <option value="$PROJECT_DIR$/quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/quickstart/src/main/java/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/entity/Book.java" />
         <option value="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/DAO/BookDAO.java" />
@@ -133,6 +286,22 @@
         <option value="$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/controller/UserController.java" />
         <option value="$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/service/UserService.java" />
         <option value="$PROJECT_DIR$/springboot-mybatis/src/test/java/com/springboot/mybatis/service/impl/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/java/task/TimerText.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/java/task/MailService.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/test/java/task/MailServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/java/task/MailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/java/task/TaskService.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/task/TaskService.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/QuickstartApplication.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/MailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/TaskService.java" />
+        <option value="$PROJECT_DIR$/quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-websocket/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/config/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/controller/WebSocketController.java" />
+        <option value="$PROJECT_DIR$/springboot-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/SpringbootWebsocketApplication.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -168,14 +337,23 @@
           <item name="springboot-mybatis" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-websocket" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-websocket" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="25" />
-    <option name="width" value="1645" />
+    <option name="x" value="870" />
+    <option name="y" value="70" />
+    <option name="width" value="980" />
     <option name="height" value="905" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -186,25 +364,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-websocket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-websocket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-websocket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-websocket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,27 +419,40 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552904307204" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555469487641" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/quickstart/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="task" />
       <recent name="com.springboot.mybatis.service.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.springboot.quickstart.task" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SpringBoot\spring-boot\springboot-websocket\src\main\java\com\springboot\websocket\config" />
+      <recent name="E:\SpringBoot\spring-boot\springboot-websocket\src\main\java\com\springboot\websocket\controller" />
+    </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -244,8 +463,9 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.012987013" />
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootMybatisApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootWebsocketApplication">
     <configuration name="UserServiceImplTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot-mybatis" />
       <extension name="coverage">
@@ -340,9 +560,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringbootWebsocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.websocket.SpringbootWebsocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.QuickstartApplication" />
       <item itemvalue="Spring Boot.SpringbootMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringbootWebsocketApplication" />
       <item itemvalue="JUnit.UserServiceImplTest.selectAll" />
       <item itemvalue="JUnit.UserServiceImplTest.getOne" />
       <item itemvalue="JUnit.UserServiceImplTest.delete" />
@@ -376,6 +604,15 @@
       <workItem from="1552904784505" duration="12000" />
       <workItem from="1552904824326" duration="24000" />
       <workItem from="1552904896087" duration="617000" />
+      <workItem from="1554082870159" duration="786000" />
+      <workItem from="1554270460978" duration="552000" />
+      <workItem from="1554272482471" duration="2642000" />
+      <workItem from="1554690226596" duration="57000" />
+      <workItem from="1554690672420" duration="1234000" />
+      <workItem from="1554693771891" duration="209000" />
+      <workItem from="1555287381804" duration="9601000" />
+      <workItem from="1555460612934" duration="4548000" />
+      <workItem from="1555547076351" duration="2360000" />
     </task>
     <task id="LOCAL-00001" summary="新增springboot——mybatis练习">
       <created>1552897706993</created>
@@ -420,14 +657,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26208000" />
+    <option name="totallyTimeSpent" value="48197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23324397" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21447721" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -439,7 +675,7 @@
       <window_info anchor="bottom" id="Spring" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.39207047" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.11453745" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -448,6 +684,7 @@
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.080763586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -456,7 +693,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.30227882" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,13 +712,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/DemoApplication.java" />
-    <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/QuickstartApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -489,13 +719,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/BookController.java" />
     <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/DAO/BookDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -514,20 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="16" selection-start-line="16" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven_jar/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -552,13 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Override.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -573,31 +776,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/controller/CourseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/mapper/CourseMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/entity/Course.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -615,24 +797,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="21" selection-start-line="21" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="19" selection-start-line="19" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/service/impl/CourseServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
@@ -664,13 +832,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/SpringbootMybatisApplication.java">
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/mapper/CourseMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="380">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/service/impl/CourseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/task/MailServiceImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/TimerText.java" />
+    <entry file="jar://E:/maven_jar/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/QuickstartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="58" selection-start-line="58" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/controller/WebSocketController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket/src/main/java/com/springboot/websocket/SpringbootWebsocketApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/controller/CourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-mybatis/src/main/java/com/springboot/mybatis/SpringbootMybatisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="23" selection-start-line="23" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/MailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/MailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="7" selection-start-line="7" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/java/com/springboot/quickstart/task/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>

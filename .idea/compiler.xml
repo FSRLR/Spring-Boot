@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="quickstart" />
         <module name="springboot-mybatis" />
+        <module name="springboot-websocket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="quickstart" target="1.8" />
       <module name="springboot-mybatis" target="1.8" />
+      <module name="springboot-websocket" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
